@@ -1,0 +1,1354 @@
+fileFormatVersion: 2
+guid: 4e076b434bd6b344b9bb8f7b02c646d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4635824259823046657
+    second: MusicMazeTiles_0
+  - first:
+      213: -6086912524628157694
+    second: MusicMazeTiles_1
+  - first:
+      213: 5390737281935301786
+    second: MusicMazeTiles_2
+  - first:
+      213: 8059397704175483508
+    second: MusicMazeTiles_3
+  - first:
+      213: 206055054372862424
+    second: MusicMazeTiles_4
+  - first:
+      213: -1319712141707393847
+    second: MusicMazeTiles_5
+  - first:
+      213: 6170006668221836585
+    second: MusicMazeTiles_6
+  - first:
+      213: -3675648921120987297
+    second: MusicMazeTiles_7
+  - first:
+      213: 778627510380185487
+    second: MusicMazeTiles_8
+  - first:
+      213: -9059214926782680552
+    second: MusicMazeTiles_9
+  - first:
+      213: 4509589027441861242
+    second: MusicMazeTiles_10
+  - first:
+      213: 3065295273744233060
+    second: MusicMazeTiles_11
+  - first:
+      213: -6794214112105957976
+    second: MusicMazeTiles_12
+  - first:
+      213: 7846516429851329116
+    second: MusicMazeTiles_13
+  - first:
+      213: -7127099348842957445
+    second: MusicMazeTiles_14
+  - first:
+      213: 1110623664094280889
+    second: MusicMazeTiles_15
+  - first:
+      213: 8628891255243569565
+    second: MusicMazeTiles_16
+  - first:
+      213: -5298940058078059317
+    second: MusicMazeTiles_17
+  - first:
+      213: -5923506536039905794
+    second: MusicMazeTiles_18
+  - first:
+      213: -5305149693871793147
+    second: MusicMazeTiles_19
+  - first:
+      213: -3537182085257063160
+    second: MusicMazeTiles_20
+  - first:
+      213: 5442951114079978946
+    second: MusicMazeTiles_21
+  - first:
+      213: 273563440333948261
+    second: MusicMazeTiles_22
+  - first:
+      213: -8664101432232299554
+    second: MusicMazeTiles_23
+  - first:
+      213: -8464668359415669063
+    second: MusicMazeTiles_24
+  - first:
+      213: -1393476303568303687
+    second: MusicMazeTiles_25
+  - first:
+      213: 3835015900037768257
+    second: MusicMazeTiles_26
+  - first:
+      213: -7677292915699063225
+    second: MusicMazeTiles_27
+  - first:
+      213: 7692162939600796793
+    second: MusicMazeTiles_28
+  - first:
+      213: -2195734208653085173
+    second: MusicMazeTiles_29
+  - first:
+      213: 9055262972419266309
+    second: MusicMazeTiles_30
+  - first:
+      213: -584396523709081501
+    second: MusicMazeTiles_31
+  - first:
+      213: -990450689042372829
+    second: MusicMazeTiles_32
+  - first:
+      213: -8279664202820934103
+    second: MusicMazeTiles_33
+  - first:
+      213: -2899761278408546517
+    second: MusicMazeTiles_34
+  - first:
+      213: 3585324280362510902
+    second: MusicMazeTiles_35
+  - first:
+      213: 1517764941059776630
+    second: MusicMazeTiles_36
+  - first:
+      213: -383389968005848821
+    second: MusicMazeTiles_37
+  - first:
+      213: -2012026326731217228
+    second: MusicMazeTiles_38
+  - first:
+      213: 933711290916855009
+    second: MusicMazeTiles_39
+  - first:
+      213: 1247514119386752727
+    second: MusicMazeTiles_40
+  - first:
+      213: -4785423551820672604
+    second: MusicMazeTiles_41
+  - first:
+      213: -4819641094781634682
+    second: MusicMazeTiles_42
+  - first:
+      213: -7198357803279362222
+    second: MusicMazeTiles_43
+  - first:
+      213: 7226200021451588851
+    second: MusicMazeTiles_44
+  - first:
+      213: -6703348607507452400
+    second: MusicMazeTiles_45
+  - first:
+      213: -6526812046979234859
+    second: MusicMazeTiles_46
+  - first:
+      213: 3880801657883514401
+    second: MusicMazeTiles_47
+  - first:
+      213: 5359426146883310032
+    second: MusicMazeTiles_48
+  - first:
+      213: 4550754710312995995
+    second: MusicMazeTiles_49
+  - first:
+      213: -2703162792402777551
+    second: MusicMazeTiles_50
+  - first:
+      213: -3710905665045238691
+    second: MusicMazeTiles_51
+  - first:
+      213: -5592001559787660080
+    second: MusicMazeTiles_52
+  - first:
+      213: 8369560969224283717
+    second: MusicMazeTiles_53
+  - first:
+      213: -63277769955442657
+    second: MusicMazeTiles_54
+  - first:
+      213: 6880515556321227561
+    second: MusicMazeTiles_55
+  - first:
+      213: 9037109517001174437
+    second: MusicMazeTiles_56
+  - first:
+      213: -541464501099508257
+    second: MusicMazeTiles_57
+  - first:
+      213: -4920380302075862830
+    second: MusicMazeTiles_58
+  - first:
+      213: 1290964376451271634
+    second: MusicMazeTiles_59
+  - first:
+      213: 2114492240095150663
+    second: MusicMazeTiles_60
+  - first:
+      213: -1185633789197820164
+    second: MusicMazeTiles_61
+  - first:
+      213: -2747698230753149087
+    second: MusicMazeTiles_62
+  - first:
+      213: 3643551344190010240
+    second: MusicMazeTiles_63
+  - first:
+      213: -5411641974351282983
+    second: MusicMazeTiles_64
+  - first:
+      213: 5139488482338695249
+    second: MusicMazeTiles_65
+  - first:
+      213: 3114811949088671077
+    second: MusicMazeTiles_66
+  - first:
+      213: -4648617724199482883
+    second: MusicMazeTiles_67
+  - first:
+      213: -4255412829901906457
+    second: MusicMazeTiles_68
+  - first:
+      213: -6694875596791057828
+    second: MusicMazeTiles_69
+  - first:
+      213: 168153609217975829
+    second: MusicMazeTiles_70
+  - first:
+      213: -2624799557882436605
+    second: MusicMazeTiles_71
+  - first:
+      213: 7810237050972930333
+    second: MusicMazeTiles_72
+  - first:
+      213: -6120652137992198875
+    second: MusicMazeTiles_73
+  - first:
+      213: 4094168739272519042
+    second: MusicMazeTiles_74
+  - first:
+      213: -4560078753398720322
+    second: MusicMazeTiles_75
+  - first:
+      213: -5599208173986497944
+    second: MusicMazeTiles_76
+  - first:
+      213: -4929490219137714910
+    second: MusicMazeTiles_77
+  - first:
+      213: 8671740647931857808
+    second: MusicMazeTiles_78
+  - first:
+      213: 6510088488748272809
+    second: MusicMazeTiles_79
+  - first:
+      213: 227367539555453602
+    second: MusicMazeTiles_80
+  - first:
+      213: 8632938656454565336
+    second: MusicMazeTiles_81
+  - first:
+      213: -8278977515943894497
+    second: MusicMazeTiles_82
+  - first:
+      213: 2265315867966389164
+    second: MusicMazeTiles_83
+  - first:
+      213: 194312718069504506
+    second: MusicMazeTiles_84
+  - first:
+      213: -5873758807949740249
+    second: MusicMazeTiles_85
+  - first:
+      213: 4882260168966425894
+    second: MusicMazeTiles_86
+  - first:
+      213: -6584170616359434206
+    second: MusicMazeTiles_87
+  - first:
+      213: -6609213366033825297
+    second: MusicMazeTiles_88
+  - first:
+      213: -6673238441345948062
+    second: MusicMazeTiles_89
+  - first:
+      213: 7938789986710147681
+    second: MusicMazeTiles_90
+  - first:
+      213: 1567515038962623203
+    second: MusicMazeTiles_91
+  - first:
+      213: -5979065863082416237
+    second: MusicMazeTiles_92
+  - first:
+      213: 250983034000839317
+    second: MusicMazeTiles_93
+  - first:
+      213: -972366702016627381
+    second: MusicMazeTiles_94
+  - first:
+      213: -6921475640510850819
+    second: MusicMazeTiles_95
+  - first:
+      213: -6448438407090962399
+    second: MusicMazeTiles_96
+  - first:
+      213: -1410378864842850706
+    second: MusicMazeTiles_97
+  - first:
+      213: -4235749221077164199
+    second: MusicMazeTiles_98
+  - first:
+      213: -5257889054264418171
+    second: MusicMazeTiles_99
+  - first:
+      213: -3299608061041260842
+    second: MusicMazeTiles_100
+  - first:
+      213: 609287571733326501
+    second: MusicMazeTiles_101
+  - first:
+      213: 8372737315583077294
+    second: MusicMazeTiles_102
+  - first:
+      213: -6654055726454901787
+    second: MusicMazeTiles_103
+  - first:
+      213: 8432129765303305927
+    second: MusicMazeTiles_104
+  - first:
+      213: 2475156917459226112
+    second: MusicMazeTiles_105
+  - first:
+      213: -7610748798938277321
+    second: MusicMazeTiles_106
+  - first:
+      213: 2728593161608525601
+    second: MusicMazeTiles_107
+  - first:
+      213: -7376444650768067943
+    second: MusicMazeTiles_108
+  - first:
+      213: -8756303103091923873
+    second: MusicMazeTiles_109
+  - first:
+      213: 8011728214729074816
+    second: MusicMazeTiles_110
+  - first:
+      213: -3081963596109848180
+    second: MusicMazeTiles_111
+  - first:
+      213: -1467927607386747464
+    second: MusicMazeTiles_112
+  - first:
+      213: 1819423157236674871
+    second: MusicMazeTiles_113
+  - first:
+      213: 377848913909016399
+    second: MusicMazeTiles_114
+  - first:
+      213: 7451424906788866223
+    second: MusicMazeTiles_115
+  - first:
+      213: -1639644461301313750
+    second: MusicMazeTiles_116
+  - first:
+      213: 4532614107036959468
+    second: MusicMazeTiles_117
+  - first:
+      213: 6294694170669165158
+    second: MusicMazeTiles_118
+  - first:
+      213: 3160110995744873328
+    second: MusicMazeTiles_119
+  - first:
+      213: 3444467366677997877
+    second: MusicMazeTiles_120
+  - first:
+      213: 7122838170037469237
+    second: MusicMazeTiles_121
+  - first:
+      213: 3127848286504818423
+    second: MusicMazeTiles_122
+  - first:
+      213: 8080180149257977022
+    second: MusicMazeTiles_123
+  - first:
+      213: -7565409135367360829
+    second: MusicMazeTiles_124
+  - first:
+      213: -4276248250423244339
+    second: MusicMazeTiles_125
+  - first:
+      213: -4454606153780678618
+    second: MusicMazeTiles_126
+  - first:
+      213: 8002588489230657975
+    second: MusicMazeTiles_127
+  - first:
+      213: -3705702232494671427
+    second: MusicMazeTiles_128
+  - first:
+      213: 874280678018862558
+    second: MusicMazeTiles_129
+  - first:
+      213: 4176413292988693143
+    second: MusicMazeTiles_130
+  - first:
+      213: 6634046677136558668
+    second: MusicMazeTiles_131
+  - first:
+      213: 6853281627888175048
+    second: MusicMazeTiles_132
+  - first:
+      213: -5785554154385016270
+    second: MusicMazeTiles_133
+  - first:
+      213: 2789929677677341329
+    second: MusicMazeTiles_134
+  - first:
+      213: -4428151671039133046
+    second: MusicMazeTiles_135
+  - first:
+      213: 1403333033409710385
+    second: MusicMazeTiles_136
+  - first:
+      213: 3181435558652215411
+    second: MusicMazeTiles_137
+  - first:
+      213: 6441843693245167093
+    second: MusicMazeTiles_138
+  - first:
+      213: -3584442718707844381
+    second: MusicMazeTiles_139
+  - first:
+      213: 775169735633076320
+    second: MusicMazeTiles_140
+  - first:
+      213: 5968504958316596662
+    second: MusicMazeTiles_141
+  - first:
+      213: -6201141793970214540
+    second: MusicMazeTiles_142
+  - first:
+      213: 1522549147383852980
+    second: MusicMazeTiles_143
+  - first:
+      213: 5398410024705050885
+    second: MusicMazeTiles_144
+  - first:
+      213: -5401116899463207450
+    second: MusicMazeTiles_145
+  - first:
+      213: 7099722023855078857
+    second: MusicMazeTiles_146
+  - first:
+      213: 7880135507184105284
+    second: MusicMazeTiles_147
+  - first:
+      213: -3149846818099800769
+    second: MusicMazeTiles_148
+  - first:
+      213: 2855375241822303044
+    second: MusicMazeTiles_149
+  - first:
+      213: -1069023650847471126
+    second: MusicMazeTiles_150
+  - first:
+      213: -4350963310807478372
+    second: MusicMazeTiles_151
+  - first:
+      213: 2624533731954311163
+    second: MusicMazeTiles_152
+  - first:
+      213: 8197658111786061266
+    second: MusicMazeTiles_153
+  - first:
+      213: 7373113578782325526
+    second: MusicMazeTiles_154
+  - first:
+      213: -8477162241152424359
+    second: MusicMazeTiles_155
+  - first:
+      213: -4848698576737002250
+    second: MusicMazeTiles_156
+  - first:
+      213: -9186707692012419083
+    second: MusicMazeTiles_157
+  - first:
+      213: -2380301806452074724
+    second: MusicMazeTiles_158
+  - first:
+      213: -1702178493619183217
+    second: MusicMazeTiles_159
+  - first:
+      213: 3189270610721015501
+    second: MusicMazeTiles_160
+  - first:
+      213: -4551570840979578484
+    second: MusicMazeTiles_161
+  - first:
+      213: 8447397502116880743
+    second: MusicMazeTiles_162
+  - first:
+      213: -416925282853742657
+    second: MusicMazeTiles_163
+  - first:
+      213: 8338605611186135450
+    second: MusicMazeTiles_164
+  - first:
+      213: 1962489706232604
+    second: MusicMazeTiles_165
+  - first:
+      213: 6224658886499425153
+    second: MusicMazeTiles_166
+  - first:
+      213: 4165228802234001399
+    second: MusicMazeTiles_167
+  - first:
+      213: 7131986689994363398
+    second: MusicMazeTiles_168
+  - first:
+      213: -8152933030692923266
+    second: MusicMazeTiles_169
+  - first:
+      213: -6280367641414486648
+    second: MusicMazeTiles_170
+  - first:
+      213: 6491308431340961660
+    second: MusicMazeTiles_171
+  - first:
+      213: -3770978635385503489
+    second: MusicMazeTiles_172
+  - first:
+      213: 6242917078471724698
+    second: MusicMazeTiles_173
+  - first:
+      213: -5494975470446752104
+    second: MusicMazeTiles_174
+  - first:
+      213: 649048981034895135
+    second: MusicMazeTiles_175
+  - first:
+      213: -1963377153267083479
+    second: MusicMazeTiles_176
+  - first:
+      213: 5569195885693666304
+    second: MusicMazeTiles_177
+  - first:
+      213: 5990506178893493806
+    second: MusicMazeTiles_178
+  - first:
+      213: 3591429306642794027
+    second: MusicMazeTiles_179
+  - first:
+      213: 5055883538377185788
+    second: MusicMazeTiles_180
+  - first:
+      213: -7131772670861788167
+    second: MusicMazeTiles_181
+  - first:
+      213: 8097457686355199995
+    second: MusicMazeTiles_182
+  - first:
+      213: -1766781960463505802
+    second: MusicMazeTiles_183
+  - first:
+      213: 99001016121352729
+    second: MusicMazeTiles_184
+  - first:
+      213: 881877527831614457
+    second: MusicMazeTiles_185
+  - first:
+      213: 9054898764267089594
+    second: MusicMazeTiles_186
+  - first:
+      213: -1003869551581948806
+    second: MusicMazeTiles_187
+  - first:
+      213: 7563903298912299190
+    second: MusicMazeTiles_188
+  - first:
+      213: -5361526999263533587
+    second: MusicMazeTiles_189
+  - first:
+      213: 1022677879345495329
+    second: MusicMazeTiles_190
+  - first:
+      213: 8005607528113627653
+    second: MusicMazeTiles_191
+  - first:
+      213: -4417524714076720428
+    second: MusicMazeTiles_192
+  - first:
+      213: -3722204550868471573
+    second: MusicMazeTiles_193
+  - first:
+      213: -770860985230687426
+    second: MusicMazeTiles_194
+  - first:
+      213: -309890443253840626
+    second: MusicMazeTiles_195
+  - first:
+      213: 1677209873412582139
+    second: MusicMazeTiles_196
+  - first:
+      213: 4810493269767967676
+    second: MusicMazeTiles_197
+  - first:
+      213: -6390240648916973408
+    second: MusicMazeTiles_198
+  - first:
+      213: -1478676705707528744
+    second: MusicMazeTiles_199
+  - first:
+      213: -4425667668691261419
+    second: MusicMazeTiles_200
+  - first:
+      213: -5374609428329125073
+    second: MusicMazeTiles_201
+  - first:
+      213: 6049061706583802818
+    second: MusicMazeTiles_202
+  - first:
+      213: -5458149111070935316
+    second: MusicMazeTiles_203
+  - first:
+      213: -56770043563039565
+    second: MusicMazeTiles_204
+  - first:
+      213: 2332969273765395505
+    second: MusicMazeTiles_205
+  - first:
+      213: 8989922766672241790
+    second: MusicMazeTiles_206
+  - first:
+      213: -6880286271699976030
+    second: MusicMazeTiles_207
+  - first:
+      213: -603413626906788774
+    second: MusicMazeTiles_208
+  - first:
+      213: -3466249631308793367
+    second: MusicMazeTiles_209
+  - first:
+      213: 1061049401809276157
+    second: MusicMazeTiles_210
+  - first:
+      213: -8409716342728863821
+    second: MusicMazeTiles_211
+  - first:
+      213: 1149742444409226503
+    second: MusicMazeTiles_212
+  - first:
+      213: 2895321128968873858
+    second: MusicMazeTiles_213
+  - first:
+      213: -7157630446663412328
+    second: MusicMazeTiles_214
+  - first:
+      213: 1022074194961642971
+    second: MusicMazeTiles_215
+  - first:
+      213: 9057133132584450774
+    second: MusicMazeTiles_216
+  - first:
+      213: 6422294407076172217
+    second: MusicMazeTiles_217
+  - first:
+      213: -2732975775173763094
+    second: MusicMazeTiles_218
+  - first:
+      213: 8032421570762584878
+    second: MusicMazeTiles_219
+  - first:
+      213: 5395992656357056359
+    second: MusicMazeTiles_220
+  - first:
+      213: 8982132118706503632
+    second: MusicMazeTiles_221
+  - first:
+      213: -3301597149874465012
+    second: MusicMazeTiles_222
+  - first:
+      213: -3766024942530538009
+    second: MusicMazeTiles_223
+  - first:
+      213: 8588336641131214806
+    second: MusicMazeTiles_224
+  - first:
+      213: -6076508033796394210
+    second: MusicMazeTiles_225
+  - first:
+      213: 7844565563357884119
+    second: MusicMazeTiles_226
+  - first:
+      213: 4468020572761974707
+    second: MusicMazeTiles_227
+  - first:
+      213: 2589887485442314585
+    second: MusicMazeTiles_228
+  - first:
+      213: -2555041861682359585
+    second: MusicMazeTiles_229
+  - first:
+      213: 6285416461431346554
+    second: MusicMazeTiles_230
+  - first:
+      213: 8001840509205247754
+    second: MusicMazeTiles_231
+  - first:
+      213: -5076373436770423983
+    second: MusicMazeTiles_232
+  - first:
+      213: -8636106107251756180
+    second: MusicMazeTiles_233
+  - first:
+      213: -3216290704038035661
+    second: MusicMazeTiles_234
+  - first:
+      213: -7652588234601428439
+    second: MusicMazeTiles_235
+  - first:
+      213: -4970533965605468451
+    second: MusicMazeTiles_236
+  - first:
+      213: 9107432987997573335
+    second: MusicMazeTiles_237
+  - first:
+      213: 9006883741037213395
+    second: MusicMazeTiles_238
+  - first:
+      213: 6391513798454814515
+    second: MusicMazeTiles_239
+  - first:
+      213: 4949253974837781090
+    second: MusicMazeTiles_240
+  - first:
+      213: -1294444716932997717
+    second: MusicMazeTiles_241
+  - first:
+      213: -1060114239772546196
+    second: MusicMazeTiles_242
+  - first:
+      213: 5827450999614632254
+    second: MusicMazeTiles_243
+  - first:
+      213: 8497682717924304652
+    second: MusicMazeTiles_244
+  - first:
+      213: -7035173356840764923
+    second: MusicMazeTiles_245
+  - first:
+      213: 1354047886485454447
+    second: MusicMazeTiles_246
+  - first:
+      213: 4083718579000801466
+    second: MusicMazeTiles_247
+  - first:
+      213: 5443723590841470207
+    second: MusicMazeTiles_248
+  - first:
+      213: 2995195638580043263
+    second: MusicMazeTiles_249
+  - first:
+      213: -5735565740987728216
+    second: MusicMazeTiles_250
+  - first:
+      213: 166054142128855124
+    second: MusicMazeTiles_251
+  - first:
+      213: 5053430161573897274
+    second: MusicMazeTiles_252
+  - first:
+      213: 5065241926183594563
+    second: MusicMazeTiles_253
+  - first:
+      213: 4391690703681005694
+    second: MusicMazeTiles_254
+  - first:
+      213: 7155843003378770832
+    second: MusicMazeTiles_255
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MusicMazeTiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10014e74a91c55040800000000000000
+      internalID: 4635824259823046657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicMazeTiles_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b99a60f41f68ba0800000000000000
+      internalID: -6086912524628157694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicMazeTiles_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c553f1ffebfca40800000000000000
+      internalID: 5390737281935301786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicMazeTiles_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a7afce28bb8df60800000000000000
+      internalID: 8059397704175483508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicMazeTiles_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d97110fafd0cd200800000000000000
+      internalID: 206055054372862424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicMazeTiles_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4c2cb9cc07fade0800000000000000
+      internalID: -1319712141707393847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicMazeTiles_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d6729ef5440a550800000000000000
+      internalID: 6170006668221836585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicMazeTiles_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f572989d7c87dfcc0800000000000000
+      internalID: -3675648921120987297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicMazeTiles_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87ce88689d3eca00800000000000000
+      internalID: 778627510380185487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicMazeTiles_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812b3399504374280800000000000000
+      internalID: -9059214926782680552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicMazeTiles_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72ebafd357459e30800000000000000
+      internalID: 4509589027441861242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicMazeTiles_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46275339fcd1a8a20800000000000000
+      internalID: 3065295273744233060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicMazeTiles_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a57af7234a16b1a0800000000000000
+      internalID: -6794214112105957976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicMazeTiles_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c520e8dce1d64ec60800000000000000
+      internalID: 7846516429851329116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicMazeTiles_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b753c4937e4771d90800000000000000
+      internalID: -7127099348842957445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicMazeTiles_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc7b71965ab96f00800000000000000
+      internalID: 1110623664094280889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicMazeTiles_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99744af0eaffb770800000000000000
+      internalID: 8628891255243569565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicMazeTiles_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc46b2897126676b0800000000000000
+      internalID: -5298940058078059317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicMazeTiles_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef503a6803a7bcda0800000000000000
+      internalID: -5923506536039905794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicMazeTiles_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cdf7816725066b0800000000000000
+      internalID: -5305149693871793147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicMazeTiles_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5cd84433f398b40800000000000000
+      internalID: 5442951114079978946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicMazeTiles_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56583a4ef74ebc300800000000000000
+      internalID: 273563440333948261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicMazeTiles_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed337d9d6ade2c780800000000000000
+      internalID: -8664101432232299554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
