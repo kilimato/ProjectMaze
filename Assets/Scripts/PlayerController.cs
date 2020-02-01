@@ -9,6 +9,7 @@ public class PlayerController : MonoBehaviour
     private Animator animator;
 
     private Rigidbody2D rb2D;
+    private BoxCollider2D boxCollider;
 
     public float moveTime = 0.05f;
     private float inverseMoveTime;
@@ -21,6 +22,7 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
 
+        boxCollider = GetComponent<BoxCollider2D>();
         rb2D = GetComponent<Rigidbody2D>();
 
         inverseMoveTime = 1f / moveTime;
@@ -88,8 +90,20 @@ public class PlayerController : MonoBehaviour
 
         Vector2 start = transform.position;
         Vector2 end = start + new Vector2(xDir, yDir);
-        StartCoroutine(SmoothMovement(end));
-        return true;
+
+        RaycastHit2D hit;
+
+        boxCollider.enabled = false;
+        hit = Physics2D.Linecast(start, end);
+        boxCollider.enabled = true;
+
+        if ((hit.transform == null || !hit.collider.CompareTag("Walls")))
+        {
+            StartCoroutine(SmoothMovement(end));
+            return true;
+        }
+
+        return false;
 
     }
 
