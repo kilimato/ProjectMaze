@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{62D86EE0-6D10-C7C4-561E-511DD7A50B72}</ProjectGuid>
+    <ProjectGuid>{80D39060-C572-23A6-FC13-35732EA015F7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -63,39 +63,40 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Floater.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>D:/Varakopio C/Projekteja/Unity Projut/MusicMaze/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>D:/Varakopio C/Projekteja/Unity Projut/MusicMaze/ProjectMaze/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>D:/Varakopio C/Projekteja/Unity Projut/MusicMaze/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>D:/Varakopio C/Projekteja/Unity Projut/MusicMaze/ProjectMaze/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/Varakopio C/Projekteja/Unity Projut/MusicMaze/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/Varakopio C/Projekteja/Unity Projut/MusicMaze/ProjectMaze/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/Varakopio C/Projekteja/Unity Projut/MusicMaze/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>D:/Varakopio C/Projekteja/Unity Projut/MusicMaze/ProjectMaze/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>D:/Varakopio C/Projekteja/Unity Projut/MusicMaze/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>D:/Varakopio C/Projekteja/Unity Projut/MusicMaze/ProjectMaze/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/Varakopio C/Projekteja/Unity Projut/MusicMaze/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/Varakopio C/Projekteja/Unity Projut/MusicMaze/ProjectMaze/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>D:/Varakopio C/Projekteja/Unity Projut/MusicMaze/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>D:/Varakopio C/Projekteja/Unity Projut/MusicMaze/ProjectMaze/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>D:/Varakopio C/Projekteja/Unity Projut/MusicMaze/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+      <HintPath>D:/Varakopio C/Projekteja/Unity Projut/MusicMaze/ProjectMaze/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>D:/Varakopio C/Projekteja/Unity Projut/MusicMaze/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+      <HintPath>D:/Varakopio C/Projekteja/Unity Projut/MusicMaze/ProjectMaze/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/Varakopio C/Projekteja/Unity Projut/MusicMaze/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/Varakopio C/Projekteja/Unity Projut/MusicMaze/ProjectMaze/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:/Varakopio C/Projekteja/Unity Projut/MusicMaze/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>D:/Varakopio C/Projekteja/Unity Projut/MusicMaze/ProjectMaze/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
