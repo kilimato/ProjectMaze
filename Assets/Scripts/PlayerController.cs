@@ -11,10 +11,14 @@ public class PlayerController : MonoBehaviour
 
     private Rigidbody2D rb2D;
     private BoxCollider2D boxCollider;
+    private List<Rigidbody2D> lineQueue;
 
     public float moveTime = 0.05f;
     private float inverseMoveTime;
 
+    private Vector2 previousPosition;
+
+    public GameObject visitedTile;
     public int moveX = 0;
     public int moveY = 0;
     private bool isCoroutineStarted = false;
@@ -26,6 +30,7 @@ public class PlayerController : MonoBehaviour
         boxCollider = GetComponent<BoxCollider2D>();
         rb2D = GetComponent<Rigidbody2D>();
 
+        lineQueue = new List<Rigidbody2D>();
         inverseMoveTime = 1f / moveTime;
         spriteRenderer = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
@@ -49,7 +54,21 @@ public class PlayerController : MonoBehaviour
             if (isCoroutineStarted == false)
             {
                 //Perusideat Unityn 4 vuotta vanhasta roguelike tutoriaalista.
-                Move(moveX, moveY);
+                if(Move(moveX, moveY))
+                {
+
+                    if (lineQueue.Count != 0)
+                    {
+                        lineQueue[0].MovePosition(previousPosition);
+                        lineQueue[0].GetComponent<PreviousPosition>().previousPosition = previousPosition;
+                    }
+
+                    for (int i = lineQueue.Count - 1; i > 0; i--)
+                    {
+                        lineQueue[i].GetComponent<PreviousPosition>().previousPosition = lineQueue[i].position;
+                        lineQueue[i].MovePosition(lineQueue[i - 1].position);
+                    }
+                }
             }
 
         }
@@ -64,22 +83,24 @@ public class PlayerController : MonoBehaviour
     /// </summary>
     /// <param name="end">Liikkumisen päätepiste.</param>
     /// <returns></returns>
-    protected IEnumerator SmoothMovement(Vector3 end)
+    protected IEnumerator SmoothMovement(Rigidbody2D movingObject, Vector3 start, Vector3 end)
     {
 
-        float remainingDistance = (transform.position - end).sqrMagnitude;
+        float remainingDistance = (start - end).sqrMagnitude;
         isCoroutineStarted = true;
         while (remainingDistance > float.Epsilon)
         {
-            Vector3 newPosition = Vector3.MoveTowards(rb2D.position, end, inverseMoveTime * Time.deltaTime);
-            rb2D.MovePosition(newPosition);
+            Vector3 newPosition = Vector3.MoveTowards(movingObject.position, end, inverseMoveTime * Time.deltaTime);
+            movingObject.MovePosition(newPosition);
             remainingDistance = (transform.position - end).sqrMagnitude;
             yield return null;
         }
 
+        Instantiate(visitedTile, start, Quaternion.identity);
         isCoroutineStarted = false;
         
     }
+
 
     /// <summary>
     /// Metodi, joka suorittaa liikkumisen,  ja myöhemmin mahdollisesti myös tarkistaa, että
@@ -92,6 +113,7 @@ public class PlayerController : MonoBehaviour
     {
 
         Vector2 start = transform.position;
+        previousPosition = transform.position;
         Vector2 end = start + new Vector2(xDir, yDir);
 
         RaycastHit2D hit;
@@ -100,9 +122,9 @@ public class PlayerController : MonoBehaviour
         hit = Physics2D.Linecast(start, end);
         boxCollider.enabled = true;
 
-        if ((hit.transform == null || !hit.collider.CompareTag("Walls")))
+        if (hit.transform == null || (!hit.collider.CompareTag("Walls") && !hit.collider.CompareTag("Visited")))
         {
-            StartCoroutine(SmoothMovement(end));
+            StartCoroutine(SmoothMovement(rb2D, start, end));
             return true;
         }
 
@@ -115,7 +137,11 @@ public class PlayerController : MonoBehaviour
 
         if (other.gameObject.CompareTag("Collectable"))
         {
-            other.gameObject.SetActive(false);
+            other.GetComponent<Collider2D>().enabled = false;
+            //other.gameObject.SetActive(false);
+            other.GetComponent<Floater>().enabled = false;
+            if (lineQueue.Count == 0) other.attachedRigidbody.GetComponent<PreviousPosition>().previousPosition = previousPosition;
+            lineQueue.Add(other.attachedRigidbody);
         }
         
     }

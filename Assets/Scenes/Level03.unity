@@ -413,7 +413,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalPosition: {x: -3, y: 0, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -480,6 +480,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2533085981180196074, guid: 75314480cc88ea5489f2be7e53f49229,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2533085981180196074, guid: 75314480cc88ea5489f2be7e53f49229,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2533085981180196074, guid: 75314480cc88ea5489f2be7e53f49229,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0.009137154
       objectReference: {fileID: 0}
     - target: {fileID: 2533085981180196075, guid: 75314480cc88ea5489f2be7e53f49229,
         type: 3}
@@ -860,6 +875,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveTime: 0.05
+  visitedTile: {fileID: 4640576228488327681, guid: 1e541edb2ced6d4479051fc70fa70bf3,
+    type: 3}
   moveX: 0
   moveY: 0
 --- !u!50 &1611188401
