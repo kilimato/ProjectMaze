@@ -34,7 +34,7 @@ public class PlayerController : MonoBehaviour
         inverseMoveTime = 1f / moveTime;
         spriteRenderer = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
-       
+
     }
 
     // Update is called once per frame
@@ -54,7 +54,7 @@ public class PlayerController : MonoBehaviour
             if (isCoroutineStarted == false)
             {
                 //Perusideat Unityn 4 vuotta vanhasta roguelike tutoriaalista.
-                if(Move(moveX, moveY))
+                if (Move(moveX, moveY))
                 {
 
                     if (lineQueue.Count != 0)
@@ -73,7 +73,8 @@ public class PlayerController : MonoBehaviour
 
         }
 
-        if(Input.GetKeyDown(KeyCode.R)) SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        if (Input.GetKeyDown(KeyCode.R)) SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+
 
     }
 
@@ -98,7 +99,7 @@ public class PlayerController : MonoBehaviour
 
         Instantiate(visitedTile, start, Quaternion.identity);
         isCoroutineStarted = false;
-        
+
     }
 
 
@@ -109,7 +110,7 @@ public class PlayerController : MonoBehaviour
     /// <param name="xDir">Liikkumissuunta x-akselin suhteen.</param>
     /// <param name="yDir">Liikkumissuunta y-akselin suhteen.</param>
     /// <returns>Palauttaa false, jos ei voida liikkua. Muuten true.</returns>
-    protected bool Move (int xDir, int yDir)
+    protected bool Move(int xDir, int yDir)
     {
 
         Vector2 start = transform.position;
@@ -143,7 +144,7 @@ public class PlayerController : MonoBehaviour
             if (lineQueue.Count == 0) other.attachedRigidbody.GetComponent<PreviousPosition>().previousPosition = previousPosition;
             lineQueue.Add(other.attachedRigidbody);
         }
-        
+
     }
 
 }
